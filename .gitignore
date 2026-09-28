@@ -1,0 +1,26 @@
+# Virtual environment
+Movie/
+**/Movie/
+venv/
+env/
+.venv/
+ENV/
+
+# Large files (>100MB) exceeding GitHub limit
+model1.pkl
+**/model1.pkl
+
+# Python cache & IDE files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
